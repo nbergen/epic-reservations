@@ -1,6 +1,6 @@
-desiredDays = ['2/20']
-mountains = ['14']
-people = ['daniel gorman']
+desiredDays = ['4/10', '4/11']
+mountains = ['44']
+people = ['nathaniel bergen']
 
 // Afton Alps				=	"11"
 // Alpine Valley			=	"232"
