@@ -67,7 +67,7 @@ async function timeout(ms) {
 }
 
 async function waitForLoad() {
-	await timeout(100)
+	await timeout(5000)
 	if ($("[class*=loading_spinner").length !== 0) {
 		//console.log('loading')
 		await waitForLoad()
